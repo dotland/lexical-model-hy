@@ -6,7 +6,7 @@
 
 #### Android, iOS
 
-&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman հավելվածը [Android](https://keyman.com/android/) կամ [iOS](https://keyman.com/iphone-and-ipad/) ՕՀ-ի համար, բացեք հավելվածը, կարգավորումներ բաժնից ընտրեք նախորոք ներբեռնած [hy.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hy.kmp) ֆայլը ( `⋮` –› `Settings` –› `Install Keyboard or Dictionary` –› `Install from local file` ),  և սեղմեք `Install` կոճակը: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman հավելվածը [Android](https://keyman.com/android/) կամ [iOS](https://keyman.com/iphone-and-ipad/) ՕՀ-ի համար, բացեք հավելվածը, կարգավորումներ բաժնից ընտրեք նախորոք ներբեռնած [hy.kmp](https://github.com/dotland/lexical-model-hy/releases/latest/download/hy.kmp) ֆայլը ( `⋮` –› `Settings` –› `Install Keyboard or Dictionary` –› `Install from local file` ),  և սեղմեք `Install` կոճակը: <br />
 
 
 ### Հղումներ
