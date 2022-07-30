@@ -13,4 +13,5 @@
 
 <a id="1">&nbsp;&nbsp;1.&nbsp;</a>
 [Հայկական մնեմոնիկ ստեղնաշարի նախագիծը:](https://github.com/dotland/mnemonic-kb-hy/blob/main/README.md) <br />
-
+<a id="2">&nbsp;&nbsp;2.&nbsp;</a>
+[«Armenian Mnemonic R» Keyman ստեղնաշարը։](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md) <br />
